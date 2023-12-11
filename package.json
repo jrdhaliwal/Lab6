@@ -1,0 +1,15 @@
+{
+  "name": "lab-6",
+  "version": "1.0.0",
+  "description": "I will mark Chapter 13, Project 1 in textbook, pages 707-708. I have also provided a PDF of those pages. Exercises 6-11 in Lab13 provide step-by-step exercises for creating a data retrieval API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
